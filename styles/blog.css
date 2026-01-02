@@ -11,6 +11,8 @@ div{
 }
 .calenderPic{
     height: 200px;
-    display:block;
-    width:auto;
+      width:400px;
+      border-radius: 5px;
+      
+
 }
